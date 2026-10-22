@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "fresh_training_month": "2025-01",
+  "fresh_quantiles": [
+    0.05,
+    0.1,
+    0.95
+  ],
+  "train_n": 116572,
+  "target_n": 8553,
+  "max_absolute_difference": {
+    "q05": 0.0,
+    "q10": 0.0,
+    "q95": 0.0
+  },
+  "seconds": 14.82,
+  "full_training_rerun": false
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "file": "prepare_multiyear_trips.py",
+    "original_sha256": "323b35f2d790c53e2343798dbb49e917d9a89bc53984307aacf6ffa05e042cc9",
+    "release_sha256": "94602b254bd77df7b1eb5c99fe0cca34eab84bbaf1276155f01356b4e9047c5a",
+    "change": "shared imports extracted; numerical code unchanged"
+  },
+  {
+    "file": "fetch_alternative_forecasts.py",
+    "original_sha256": "d6d766960f3478c62f4d0a902d50b0dfa8fe6fbf7f89fa91466699349fa14b6d",
+    "release_sha256": "507d36abaa757de4f169850d8bdc109f89b07e04a7c150e1e41cffa9e0a0d7fb",
+    "change": "shared imports extracted; numerical code unchanged"
+  },
+  {
+    "file": "compare_annual_alternative_weather.py",
+    "original_sha256": "9184ad8e42a9d5f2c3938837e37bb859c5cc4f91a5d191502e5dba85a24c71ee",
+    "release_sha256": "ca7296fadf465622c4d7d000999ddd59d9416606f9615bee3bff553000b7dcb4",
+    "change": "shared imports extracted; numerical code unchanged"
+  },
+  {
+    "file": "verify_annual_alternative_weather.py",
+    "original_sha256": "e63282c70cc1a7d955610b5673848cbb798654625945afd6254303ffa816f15d",
+    "release_sha256": "fc1852ea34f9af4d3c966aa3d3be8a25815f9600922a7b237db142c8be01368e",
+    "change": "shared imports extracted; numerical code unchanged"
+  },
+  {
+    "file": "compare_boarding_intervals.py",
+    "original_sha256": "6b44d6921a646bd39bf6e50891945fb461f6a3d0286d910a4f2b0c6fccbe0158",
+    "release_sha256": "6b44d6921a646bd39bf6e50891945fb461f6a3d0286d910a4f2b0c6fccbe0158",
+    "change": "unchanged"
+  },
+  {
+    "file": "verify_boarding_intervals.py",
+    "original_sha256": "fca25ed41ff0da8239a67ec553709fe05712bbd4a03fc917fd567b2e71a29577",
+    "release_sha256": "fca25ed41ff0da8239a67ec553709fe05712bbd4a03fc917fd567b2e71a29577",
+    "change": "unchanged"
+  },
+  {
+    "file": "analyze_short_interval_scope.py",
+    "original_sha256": "93c23d1473278718a9aaf8d04de19e645e2420dcd441980aa87563e6474146ed",
+    "release_sha256": "93c23d1473278718a9aaf8d04de19e645e2420dcd441980aa87563e6474146ed",
+    "change": "unchanged"
+  },
+  {
+    "file": "verify_short_interval_scope.py",
+    "original_sha256": "7d29248220a18058f891c08eb6d03992db4c59922ce71547e9b8b8d9d4384119",
+    "release_sha256": "7d29248220a18058f891c08eb6d03992db4c59922ce71547e9b8b8d9d4384119",
+    "change": "unchanged"
+  },
+  {
+    "file": "ANNUAL_ALTERNATIVE_WEATHER_PROTOCOL.md",
+    "original_sha256": "1ae475101b3f3835b50bda93fdd16e13b9806ba88bc0b45ab4ff76ab27cfad59",
+    "release_sha256": "1ae475101b3f3835b50bda93fdd16e13b9806ba88bc0b45ab4ff76ab27cfad59",
+    "change": "unchanged"
+  },
+  {
+    "file": "BOARDING_INTERVAL_PROTOCOL.md",
+    "original_sha256": "ef75f72eeb813b0db3020c27ac8dd0a9ed64c7cb230d13bf9619b30e37dd539f",
+    "release_sha256": "ef75f72eeb813b0db3020c27ac8dd0a9ed64c7cb230d13bf9619b30e37dd539f",
+    "change": "unchanged"
+  },
+  {
+    "file": "SHORT_INTERVAL_SCOPE_PROTOCOL.md",
+    "original_sha256": "498df739b5e40470cca1d4e246cd4ff6c6b50e6d7f4fffc377e50f178b6e97c7",
+    "release_sha256": "498df739b5e40470cca1d4e246cd4ff6c6b50e6d7f4fffc377e50f178b6e97c7",
+    "change": "unchanged"
+  }
+]

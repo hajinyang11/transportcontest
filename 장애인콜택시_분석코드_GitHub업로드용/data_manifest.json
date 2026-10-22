@@ -1,0 +1,35 @@
+{
+  "trip_files": [
+    {
+      "year": 2023,
+      "filename": "서울시설공단_장애인콜택시 탑승내역_20231231.xlsx",
+      "sha256": "fcb1a808b3cf6db5a6f53e340cc08c01e3b23c4dc20c198df4fb132747ab45de",
+      "source": "https://www.data.go.kr/data/15115859/fileData.do",
+      "target_glob": "*탑승내역_20231231.*"
+    },
+    {
+      "year": 2024,
+      "filename": "서울시설공단_장애인콜택시 탑승내역_20241231.csv",
+      "sha256": "8a0e66f0b7c6af9b35752bc024c4c3f472e025b3d7814a13c9b5cc4b70e22252",
+      "source": "https://www.data.go.kr/data/15115859/fileData.do",
+      "target_glob": "*탑승내역_20241231.*"
+    },
+    {
+      "year": 2025,
+      "filename": "서울시설공단_장애인콜택시 탑승내역_20251231.csv",
+      "sha256": "f704ecea1f9c0d65a5dbd096d90868a1f2126d91213d846ec071c4bbaece5889",
+      "source": "https://www.data.go.kr/data/15115859/fileData.do",
+      "target_glob": "*탑승내역_20251231.*"
+    }
+  ],
+  "forecast_cache": "data/raw/openmeteo_previous_runs_2024_2025/jma_msm_{ihwa,sinchon}_{2024,2025,2026}_day2.json",
+  "forecast_download_script": "analysis/calltaxi_operations_scope/fetch_alternative_forecasts.py",
+  "observed_weather": "analysis/calltaxi/aws/district_hour_weather.csv",
+  "observed_weather_required_columns": [
+    "district",
+    "time",
+    "rain_next"
+  ],
+  "observed_weather_source": "https://data.kma.go.kr/data/grnd/selectAwsRltmList.do?pgmNo=56",
+  "raw_trip_records_included": false
+}

@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "mode": "published source re-executed on precomputed local intervals",
+  "full_training_rerun": false,
+  "gate_rows_matched": 12,
+  "short45_H2": {
+    "n": 22495.0,
+    "denominator": 57291.0,
+    "coverage": 0.9070904645476772,
+    "share": 0.3926445689549842,
+    "width_mean": 35.89463253105652
+  }
+}

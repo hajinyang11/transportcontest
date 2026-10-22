@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "trip_source_hash_checks": [
+    {
+      "year": 2023,
+      "sha256_match": true
+    },
+    {
+      "year": 2024,
+      "sha256_match": true
+    },
+    {
+      "year": 2025,
+      "sha256_match": true
+    }
+  ],
+  "forecast_json_files": 6,
+  "observed_weather_schema_checked": true
+}
